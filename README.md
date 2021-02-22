@@ -25,7 +25,7 @@ You will also learn about popular neural network structures including Convolutio
 ## Syllabus
 |Event|Date|In-class lecture|Materials and Assignments|
 |------|----|-------------|---------|
-|Lecture 1|03/05|Topics: (slides)| - No assignments<br>  - Notation for understanding deep learning models|
+|Lecture 1|03/05|Topics: (slides)|* No assignments<br>* Notation for understanding deep learning models|
 
 ## Reading list for further discussion
 ### General Techniques
