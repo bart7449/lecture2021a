@@ -33,6 +33,7 @@ You will also learn about popular neural network structures including Convolutio
 - [He16a] <a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf">Deep Residual Learning for Image Recognition</a>, In Proceedings of CVPR 2016.
 - [He16b] <a href="https://arxiv.org/pdf/1603.05027.pdf">identity mapping in deep residual networks</a>, In Proceedings of ECCV 2016.
 - [Huang17a] <a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf">Densely connected convolutional networks</a>, In Proceedings of CVPR 2017.
+- [Hu2018]<a href="">Squeeze-and-excitation networks</a>, In Proceedings of CVPR 2018.
 
 ### Distributed Representations for words
 - [Mikolov13a] <a href="https://arxiv.org/pdf/1310.4546.pdf">Distributed Representations of Words and Phrases and their Compositionality</a>, Advances in Neural Information Processing Systems 26 (2013): 3111-3119.
@@ -49,4 +50,3 @@ You will also learn about popular neural network structures including Convolutio
   - [Rastegary2016a] <a href="https://arxiv.org/pdf/1603.05279.pdf?source=post_page---------------------------">XNOR-Net: ImageNet classification using binary convolutional Neural Networks</a>, In Proceedings of ECCV 2016
   - [Sandler2018a] <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Sandler_MobileNetV2_Inverted_Residuals_CVPR_2018_paper.pdf">Mobilenetv2: Inverted residuals and linear bottlenecks</a>, In Proceedings of CVPR 2018
   - [Stock2020a] <a href="https://arxiv.org/pdf/1907.05686.pdf?utm_campaign=ExternalTechRecSeptember52019&utm_content=100275348&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456">And the bit goes down: revisiting the quantization of neural networks</a>, In Proceedings of ICLR 2020
-  -
