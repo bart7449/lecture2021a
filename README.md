@@ -18,7 +18,7 @@ You will also learn about popular neural network structures including Convolutio
 - All course announcements take place though this page. Please check this page frequently.
 ### Colass components
 - This course has the following components:
-- - in-class lecture
+-- in-class lecture
 
 
 ## Syllabus
