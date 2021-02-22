@@ -23,4 +23,12 @@ You will also learn about popular neural network structures including Convolutio
 |Lecture 1|03/05|Topics: (slides)|No assignments|
 
 ## Reading list
+
+### Convolutional Neural Network
+
+### Distributed Representations for words
+- [Bojanowski17a] <a href="https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00051?source=post_page---------------------------">Enriching word vectors with subword information</a>, Transactions of the Association for Computational Linguistics 5 (2017): 135-146.
+### Attention and Transformers
+- [Badahnau16a] <a href="https://arxiv.org/pdf/1409.0473.pdf"> NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE</a>, In Proceedings of ICLR 2015
 - [Vaswani17a] <a href="https://arxiv.org/pdf/1706.03762.pdf">Attention is All You Need<a>, In Proceedings of NeurIPS 2017  
+- [Devlin19a] <a href="https://www.aclweb.org/anthology/N19-1423/">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a>, In Proceedings of ACL 2019
