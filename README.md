@@ -24,7 +24,7 @@ You will also learn about popular neural network structures including Convolutio
 
 ## Reading list for further discussion
 ### General Techniques
-- [Ioffe15a] < a href="http://proceedings.mlr.press/v37/ioffe15.pdf"> Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift</a>, In Proceedings of ICLR 2015.
+- [Ioffe15a] <a href="http://proceedings.mlr.press/v37/ioffe15.pdf"> Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift</a>, In Proceedings of ICLR 2015.
 - (optional) <a href="https://arxiv.org/pdf/1607.06450.pdf?utm_source=sciontist.com">Layer Normalization</a>, arXiv:1607.06450v1, 2016.
 - [Hinton15a] <a href="https://arxiv.org/pdf/1503.02531.pdf">Distilling the Knowledge in a Neural Network</a>, arXiv:1503.02531v1, 2015.
 
