@@ -29,7 +29,7 @@ You will also learn about popular neural network structures including Convolutio
 - [Hinton15a] <a href="https://arxiv.org/pdf/1503.02531.pdf">Distilling the Knowledge in a Neural Network</a>, arXiv:1503.02531v1, 2015.
 
 ### Convolutional Neural Network
-- [Alex2012a] <a href="https://kr.nvidia.com/content/tesla/pdf/machine-learning/imagenet-classification-with-deep-convolutional-nn.pdf">ImageNet Classification with Deep Convolutional Neural Networks</a> 
+- [Alex2012a] <a href="https://kr.nvidia.com/content/tesla/pdf/machine-learning/imagenet-classification-with-deep-convolutional-nn.pdf">ImageNet Classification with Deep Convolutional Neural Networks </a>,  Advances in Neural Informaiton Processing Systems 25:1098-1105, 2012
 - [He16a] <a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf">Deep Residual Learning for Image Recognition</a>, In Proceedings of CVPR 2016.
 - [He16b] <a href="https://arxiv.org/pdf/1603.05027.pdf">identity mapping in deep residual networks</a>, In Proceedings of ECCV 2016.
 
