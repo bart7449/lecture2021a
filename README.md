@@ -16,6 +16,10 @@ You will also learn about popular neural network structures including Convolutio
 - Some papers in a reading list will be reviewed and presented by students  
 ## Logistics
 - All course announcements take place though this page. Please check this page frequently.
+### Colass components
+- This course has the following components:
+- - in-class lecture
+
 
 ## Syllabus
 |Event|Date|In-class lecture|Materials and Assignments|
