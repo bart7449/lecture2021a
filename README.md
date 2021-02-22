@@ -23,4 +23,4 @@ You will also learn about popular neural network structures including Convolutio
 |Lecture 1|03/05|Topics: (slides)|No assignments|
 
 ## Reading list
-- [Vaswani17a] Attention is All You Need, In Proceedings of NeurIPS 2017  
+- [Vaswani17a] <a href="https://arxiv.org/pdf/1706.03762.pdf">Attention is All You Need<a>, In Proceedings of NeurIPS 2017  
