@@ -19,6 +19,7 @@ You will also learn about popular neural network structures including Convolutio
 
 ## Syllabus
 |Event|Date|In-class lecture|Materials and Assignments|
+|------|---|---|---|
 |Lecture 1|03/05|Topics: (slides)|No assignments|
 
 ## Reading list
