@@ -16,10 +16,11 @@ You will also learn about popular neural network structures including Convolutio
 - Some papers in a reading list will be reviewed and presented by students  
 ## Logistics
 - All course announcements take place though this page. Please check this page frequently.
-### Colass components
+### Class components and grading
 - This course has the following components:
--- in-class lecture
-
+  - In-class lecture (1.5~2H) (attendance 10%)
+  - Paper/code reivew(0~1.5H)(30%)
+  - A final exam(60%)
 
 ## Syllabus
 |Event|Date|In-class lecture|Materials and Assignments|
