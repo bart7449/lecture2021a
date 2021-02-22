@@ -10,6 +10,10 @@ You will also learn about popular neural network structures including Convolutio
 - Kyong-Ha Lee 
 ### Time and Location
 - Fri. 9:00 AM ~ 12:00PM
+## Materials
+- Book: Neural networks and deep learning by Charu C. Aggarwal(but not mandatory)
+- All slides for this class will be available here. 
+- Some papers in a reading list will be reviewed and presented by students  
 ## Logistics
 - All course announcements take place though this page. Please check this page frequently.
 
