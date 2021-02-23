@@ -36,7 +36,7 @@ You will also learn about popular neural network structures including Convolutio
 - [Hinton15a] <a href="https://arxiv.org/pdf/1503.02531.pdf">Distilling the Knowledge in a Neural Network</a>, arXiv:1503.02531v1, 2015.
 
 ### Convolutional Neural Network
-- [Alex2012a] <a href="https://kr.nvidia.com/content/tesla/pdf/machine-learning/imagenet-classification-with-deep-convolutional-nn.pdf">ImageNet Classification with Deep Convolutional Neural Networks </a>,  Advances in Neural Informaiton Processing Systems 25:1098-1105, 2012
+- [Alex12a] <a href="https://kr.nvidia.com/content/tesla/pdf/machine-learning/imagenet-classification-with-deep-convolutional-nn.pdf">ImageNet Classification with Deep Convolutional Neural Networks </a>,  Advances in Neural Informaiton Processing Systems 25:1098-1105, 2012
 - [He16a] <a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf">Deep Residual Learning for Image Recognition</a>, In Proceedings of CVPR 2016.
 - [He16b] <a href="https://arxiv.org/pdf/1603.05027.pdf">Identity mapping in deep residual networks</a>, In Proceedings of ECCV 2016.
 - [Huang17a] <a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf">Densely connected convolutional networks</a>, In Proceedings of CVPR 2017.
@@ -55,7 +55,7 @@ You will also learn about popular neural network structures including Convolutio
 - [Devlin19a] <a href="https://www.aclweb.org/anthology/N19-1423/">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a>, In Proceedings of ACL 2019
 
 ### Lightweight Model
-  - [Rastegary2016a] <a href="https://arxiv.org/pdf/1603.05279.pdf?source=post_page---------------------------">XNOR-Net: ImageNet classification using binary convolutional Neural Networks</a>, In Proceedings of ECCV 2016
-  - [Sandler2018a] <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Sandler_MobileNetV2_Inverted_Residuals_CVPR_2018_paper.pdf">Mobilenetv2: Inverted residuals and linear bottlenecks</a>, In Proceedings of CVPR 2018
-    - 
-  - [Stock2020a] <a href="https://arxiv.org/pdf/1907.05686.pdf?utm_campaign=ExternalTechRecSeptember52019&utm_content=100275348&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456">And the bit goes down: revisiting the quantization of neural networks</a>, In Proceedings of ICLR 2020
+  - [Rastegary16a] <a href="https://arxiv.org/pdf/1603.05279.pdf?source=post_page---------------------------">XNOR-Net: ImageNet classification using binary convolutional Neural Networks</a>, In Proceedings of ECCV 2016
+  - [Sandler18a] <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Sandler_MobileNetV2_Inverted_Residuals_CVPR_2018_paper.pdf">Mobilenetv2: Inverted residuals and linear bottlenecks</a>, In Proceedings of CVPR 2018
+    - [Howard17a] <a href="">MobileNets: Efficient convolutional Neural Networks for Mobile Vision Applications</a>, arXiv preprint arXiv:1704.04861, 2017
+  - [Stock20a] <a href="https://arxiv.org/pdf/1907.05686.pdf?utm_campaign=ExternalTechRecSeptember52019&utm_content=100275348&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456">And the bit goes down: revisiting the quantization of neural networks</a>, In Proceedings of ICLR 2020
