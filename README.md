@@ -30,7 +30,7 @@ You will also learn about popular neural network structures including Convolutio
 |Lecture 3|03/19|Topics: Machine Learning with Shallow Neural Networks II(<a href="http://www.charuaggawal.net/Chap2slides.pdf">slides)</a>|Paper review:<ul><li>[Mikolov13a]<li>[Le14a] |
 |Lecture 4|03/26|Topics: Training Deep Neural Networks I(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)|Paper review:<ul><li>[Bojanowski17a]<li>[Grover16a]|
 |Lecture 5|04/02|Topics: Training Deep Neural Networks II(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)|Paper review:<ul><li>[Ioffe15a] |
-|Lecture 6|04/09|Topics: Teaching Deep Learners to Generalize I| |
+|Lecture 6|04/09|Topics: Teaching Deep Learners to Generalize I|Paper Reviews:<ul><li>[Hinton15a] |
 |Lecture 7|04/16|Topics: Teaching Deep Learners to Generalize II| |
 |Lecture 8|04/23|Topics: Radial Bases Function Networks| |
 |Lecture 9|04/30|Topics: Convolutional Neural Networks I| |
