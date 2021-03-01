@@ -30,6 +30,17 @@ You will also learn about popular neural network structures including Convolutio
 |Lecture 3|03/19|Topics: Machine Learning with Shallow Neural Networks II(<a href="http://www.charuaggawal.net/Chap2slides.pdf">slides)</a>|Paper review:<ul><li>[Mikolov13a]<li>[Le14a] |
 |Lecture 4|03/26|Topics: Training Deep Neural Networks I(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)|Paper review:<ul><li>[Bojanowski17a]<li>[Grover16a]|
 |Lecture 5|04/02|Topics: Training Deep Neural Networks II(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)|Paper review:<ul><li>[Ioffe15a] |
+|Lecture 6|04/09| | |
+|Lecture 7|04/16| | |
+|Lecture 8|04/23| | |
+|Lecture 9|04/30| | |
+|Lecture 10|05/07| | |
+|Lecture 11|05/14| | |
+|Lecture 12|05/15| | |
+|Lecture 13|05/22| | |
+|Lecture 14|05/29| | |
+|Lecture 15|06/04| | |
+|Lecture 16|06/11|Final Exam|No Assignments | 
   
 ## Reading list for further discussion
 ### General Techniques
