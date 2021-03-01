@@ -36,8 +36,8 @@ You will also learn about popular neural network structures including Convolutio
 |Lecture 9|04/30|Topics: Convolutional Neural Networks I| |
 |Lecture 10|05/07|Topics: Convolutional Neural Networks II| |
 |Lecture 11|05/14|Topics:Recurrent Neural Networks| | 
-|Lecture 12|05/21|Topics: Attention and Language Model I| |
-|Lecture 13|05/28|Topics: Attention and Language Model II| |
+|Lecture 12|05/21|Topics: Attention and Language Model I|Paper Reviews:<ul><li>[Badahnau16]<li>[Vaswani17a]|
+|Lecture 13|05/28|Topics: Attention and Language Model II|Paper Reviews:<ul><li>[DEvlin19a] |
 |Lecture 14|06/04|Topis: Lightweight Model<ul><li>Quantization|Paper reviews:<ul><li>[Rastegary16a]<li>[Stock20a]|
 |Lecture 15|06/11|Topics: Lightweight Model<ul><li>Compact Network Design|Paper reviews:<ul><li>[Howard17a]<li>[Sandler18a] |
 |Lecture 16|06/18|Final Exam|No Assignments | 
