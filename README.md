@@ -38,8 +38,8 @@ You will also learn about popular neural network structures including Convolutio
 |Lecture 11|05/14| | |
 |Lecture 12|05/15| | |
 |Lecture 13|05/22| | |
-|Lecture 14|05/29| | |
-|Lecture 15|06/04| | |
+|Lecture 14|05/29|Topis: Lightweight Model<ul><li>Quantization| |
+|Lecture 15|06/04|Topics: Lightweight Model<ul><li>Compact Network Design | |
 |Lecture 16|06/11|Final Exam|No Assignments | 
   
 ## Reading list for further discussion
