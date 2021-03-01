@@ -25,7 +25,7 @@ You will also learn about popular neural network structures including Convolutio
 ## Syllabus
 |Event|Date|In-class lecture|Materials and Assignments|
 |------|----|-------------|---------|
-|Lecture 1|03/05|Topics: (slides)|<ul><li>No assignments <li><a href="https://www.deeplearningbook.org/contents/notation.html">Notations for understanding papers</a><li><a href="https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf">How to Read a Paper</a>|
+|Lecture 1|03/05|Topics: An Introduction to Neural Networks(slides)|<ul><li>No assignments <li><a href="https://www.deeplearningbook.org/contents/notation.html">Notations for understanding papers</a><li><a href="https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf">How to Read a Paper</a>|
 
 ## Reading list for further discussion
 ### General Techniques
