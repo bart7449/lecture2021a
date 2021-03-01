@@ -33,14 +33,14 @@ You will also learn about popular neural network structures including Convolutio
 |Lecture 6|04/09|Topics: Teaching Deep Learners to Generalize I| |
 |Lecture 7|04/16|Topics: Teaching Deep Learners to Generalize II| |
 |Lecture 8|04/23|Topics: Radial Bases Function Networks| |
-|Lecture 9|04/30|Topics:Recurrent Neural Networks| | 
-|Lecture 10|05/07|Topics: Convolutional Neural Networks I| |
-|Lecture 11|05/14|Topics: Convolutional Neural Networks II| |
-|Lecture 12|05/15|Topics: Attention and Language Model I| |
-|Lecture 13|05/22|Topics: Attention and Language Model II| |
-|Lecture 14|05/29|Topis: Lightweight Model<ul><li>Quantization| |
-|Lecture 15|06/04|Topics: Lightweight Model<ul><li>Compact Network Design | |
-|Lecture 16|06/11|Final Exam|No Assignments | 
+|Lecture 9|04/30|Topics: Convolutional Neural Networks I| |
+|Lecture 10|05/07|Topics: Convolutional Neural Networks II| |
+|Lecture 11|05/14|Topics:Recurrent Neural Networks| | 
+|Lecture 12|05/21|Topics: Attention and Language Model I| |
+|Lecture 13|05/28|Topics: Attention and Language Model II| |
+|Lecture 14|06/04|Topis: Lightweight Model<ul><li>Quantization| |
+|Lecture 15|06/11|Topics: Lightweight Model<ul><li>Compact Network Design | |
+|Lecture 16|06/18|Final Exam|No Assignments | 
   
 ## Reading list for further discussion
 ### General Techniques
