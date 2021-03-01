@@ -44,7 +44,6 @@ You will also learn about popular neural network structures including Convolutio
 - [He16b] <a href="https://arxiv.org/pdf/1603.05027.pdf">Identity mapping in deep residual networks</a>, In Proceedings of ECCV 2016.
 - [Huang17a] <a href="https://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdf">Densely connected convolutional networks</a>, In Proceedings of CVPR 2017.
 - [Hu2018]<a href="">Squeeze-and-excitation networks</a>, In Proceedings of CVPR 2018.
-- [Kipf
 
 ### Distributed Representations for words and graphs
 - [Mikolov13a] <a href="https://arxiv.org/pdf/1310.4546.pdf">Distributed Representations of Words and Phrases and their Compositionality</a>, Advances in Neural Information Processing Systems 26 (2013): 3111-3119.
