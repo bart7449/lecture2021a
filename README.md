@@ -33,7 +33,7 @@ You will also learn about popular neural network structures including Convolutio
 |Lecture 6|04/09|Topics: Teaching Deep Learners to Generalize I| |
 |Lecture 7|04/16|Topics: Teaching Deep Learners to Generalize II| |
 |Lecture 8|04/23|Topics: Radial Bases Function Networks| |
-|Lecture 9|04/30| |Topics:Recurrent Neural Networks| | 
+|Lecture 9|04/30|Topics:Recurrent Neural Networks| | 
 |Lecture 10|05/07|Topics: Convolutional Neural Networks I| |
 |Lecture 11|05/14|Topics: Convolutional Neural Networks II| |
 |Lecture 12|05/15|Topics: Attention and Language Model I| |
