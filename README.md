@@ -31,12 +31,12 @@ You will also learn about popular neural network structures including Convolutio
 |Lecture 4|03/26|Topics: Training Deep Neural Networks I(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)|Paper review:<ul><li>[Bojanowski17a]<li>[Grover16a]|
 |Lecture 5|04/02|Topics: Training Deep Neural Networks II(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)|Paper review:<ul><li>[Ioffe15a] |
 |Lecture 6|04/09|Topics: Teaching Deep Learners to Generalize I(<a href="http://www.charuaggarwal.net/Chap4slides.pdf">slides</a>)|Paper Reviews:<ul><li>[Hinton15a] |
-|Lecture 7|04/16|Topics: Teaching Deep Learners to Generalize II(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)| |
-|Lecture 8|04/23|Topics: Radial Bases Function Networks| |
-|Lecture 9|04/30|Topics: Convolutional Neural Networks I|Paper Reviews:<ul><li>[Alex12a]<li>[He16a] |
-|Lecture 10|05/07|Topics: Convolutional Neural Networks II|Paper Reviews:<ul><li>[He16b]<li>[Huang17a]<li>[Hu2018] |
-|Lecture 11|05/14|Topics:Recurrent Neural Networks| | 
-|Lecture 12|05/21|Topics: Attention and Language Model I|Paper Reviews:<ul><li>[Badahnau16]<li>[Vaswani17a]|
+|Lecture 7|04/16|Topics: Teaching Deep Learners to Generalize II(<a href="http://www.charuaggarwal.net/Chap4slides.pdf">slides</a>)| |
+|Lecture 8|04/23|Topics: Radial Bases Function Networks(<a href="http://www.charuaggarwal.net/Chap5slides.pdf">slides</a>)| |
+|Lecture 9|04/30|Topics: Convolutional Neural Networks I(<a href="http://www.charuaggarwal.net/Chap8slides.pdf">slides</a>)|Paper Reviews:<ul><li>[Alex12a]<li>[He16a] |
+|Lecture 10|05/07|Topics: Convolutional Neural Networks II(<a href="http://www.charuaggarwal.net/Chap8slides.pdf">slides</a>)|Paper Reviews:<ul><li>[He16b]<li>[Huang17a]<li>[Hu2018] |
+|Lecture 11|05/14|Topics:Recurrent Neural Networks(<a href="http://www.charuaggarwal.net/Chap7slides.pdf">slides</a>)| | 
+|Lecture 12|05/21|Topics: Attention and Language Model I(slides)|Paper Reviews:<ul><li>[Badahnau16]<li>[Vaswani17a]|
 |Lecture 13|05/28|Topics: Attention and Language Model II|Paper Reviews:<ul><li>[DEvlin19a] |
 |Lecture 14|06/04|Topis: Lightweight Model<ul><li>Quantization|Paper reviews:<ul><li>[Rastegary16a]<li>[Stock20a]|
 |Lecture 15|06/11|Topics: Lightweight Model<ul><li>Compact Network Design|Paper reviews:<ul><li>[Howard17a]<li>[Sandler18a] |
