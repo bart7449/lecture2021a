@@ -19,8 +19,8 @@ You will also learn about popular neural network structures including Convolutio
 ### Class components and grading
 - This course has the following components:
   - In-class lecture (1.5~2H) (attendance 10%)
-  - Paper/code reivew(0~1.5H)(30%)
-  - A final exam(60%)
+  - Paper/code reivew(0~1.5H)(40%)
+  - A final exam(50%)
 
 ## Syllabus
 |Event|Date|In-class lecture|Materials and Assignments|
