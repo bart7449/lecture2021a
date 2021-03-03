@@ -32,7 +32,7 @@ You will also learn about popular neural network structures including Convolutio
 |Lecture 5|04/02|Topics: Training Deep Neural Networks II(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)|Paper review:<ul><li>[Ioffe15a] |
 |Lecture 6|04/09|Topics: Teaching Deep Learners to Generalize I(<a href="http://www.charuaggarwal.net/Chap4slides.pdf">slides</a>)|Paper Review:<ul><li>[Hinton15a] |
 |Lecture 7|04/16|Topics: Teaching Deep Learners to Generalize II(<a href="http://www.charuaggarwal.net/Chap4slides.pdf">slides</a>)|Paper review:<ul><li>[Ba2016a] |
-|Lecture 8|04/23|Topics: Radial Bases Function Networks(<a href="http://www.charuaggarwal.net/Chap5slides.pdf">slides</a>)|<ul><li>[Glorot10a],[He2016a]양동헌 |
+|Lecture 8|04/23|Topics: Radial Bases Function Networks(<a href="http://www.charuaggarwal.net/Chap5slides.pdf">slides</a>)|<ul><li>[Glorot10a],[He2015a]양동헌 |
 |Lecture 9|04/30|Topics: Convolutional Neural Networks I(<a href="http://www.charuaggarwal.net/Chap8slides.pdf">slides</a>)|Paper Reviews:<ul><li>[Alex12a]<li>[He16a] |
 |Lecture 10|05/07|Topics: Convolutional Neural Networks II(<a href="http://www.charuaggarwal.net/Chap8slides.pdf">slides</a>)|Paper Reviews:<ul><li>[He16b]<li>[Huang17a]<li>[Hu2018] |
 |Lecture 11|05/14|Topics:Recurrent Neural Networks(<a href="http://www.charuaggarwal.net/Chap7slides.pdf">slides</a>)|No assignments | 
