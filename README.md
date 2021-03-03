@@ -27,7 +27,7 @@ You will also learn about popular neural network structures including Convolutio
 |------|----|-------------|---------|
 |Lecture 1|03/05|Topics: An Introduction to Neural Networks(<a href="http://www.charuaggarwal.net/Chap1slides.pdf">slides</a>)<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/landscape.pdf">Landscape</a>|<ul><li>No assignments <li><a href="https://www.deeplearningbook.org/contents/notation.html">Notations for understanding papers</a><li><a href="https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf">How to Read a Paper</a>|
 |Lecture 2|03/12|Topics: Machine Learning with Shallow Neural Networks I(<a href="http://www.charuaggarwal.net/Chap2slides.pdf">slides)</a> |No assignments|
-|Lecture 3|03/19|Topics: Machine Learning with Shallow Neural Networks II(<a href="http://www.charuaggawal.net/Chap2slides.pdf">slides)</a>|Paper review:<ul><li>[Mikolov13a]양동헌<li>[Le14a] |
+|Lecture 3|03/19|Topics: Machine Learning with Shallow Neural Networks II(<a href="http://www.charuaggawal.net/Chap2slides.pdf">slides)</a>|Paper review:<ul><li>[Mikolov13a]양동헌<li>[Le14a]유주연 |
 |Lecture 4|03/26|Topics: Training Deep Neural Networks I(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)|Paper review:<ul><li>[Bojanowski17a]<li>[Grover16a]|
 |Lecture 5|04/02|Topics: Training Deep Neural Networks II(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)|Paper review:<ul><li>[Ioffe15a] |
 |Lecture 6|04/09|Topics: Teaching Deep Learners to Generalize I(<a href="http://www.charuaggarwal.net/Chap4slides.pdf">slides</a>)|Paper Review:<ul><li>[Hinton15a] |
