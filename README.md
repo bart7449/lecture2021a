@@ -9,7 +9,7 @@ You will also learn about popular neural network structures including Convolutio
 ### Instructor
 - Kyong-Ha Lee 
 ### Time and Location
-- Fri. 9:00 AM ~ 12:00PM
+- Fri. 9:10 AM ~ 12:00PM
 ## Materials
 - Book: <a href="https://link.springer.com/book/10.1007/978-3-319-94463-0">Neural networks and deep learning: a textbook</a> by Charu C. Aggarwal(but not mandatory)
 - All slides for this class will be available here. 
