@@ -72,5 +72,5 @@ You will also learn about popular neural network structures including Convolutio
 ### Lightweight Model
   - [Rastegary16a] <a href="https://arxiv.org/pdf/1603.05279.pdf?source=post_page---------------------------">XNOR-Net: ImageNet classification using binary convolutional Neural Networks</a>, In Proceedings of ECCV 2016
   - [Sandler18a] <a href="https://openaccess.thecvf.com/content_cvpr_2018/papers/Sandler_MobileNetV2_Inverted_Residuals_CVPR_2018_paper.pdf">Mobilenetv2: Inverted residuals and linear bottlenecks</a>, In Proceedings of CVPR 2018
-    - [Howard17a] <a href="">MobileNets: Efficient convolutional Neural Networks for Mobile Vision Applications</a>, arXiv preprint arXiv:1704.04861, 2017
+    - [Howard17a] <a href="https://arxiv.org/abs/1704.04861">MobileNets: Efficient convolutional Neural Networks for Mobile Vision Applications</a>, arXiv preprint arXiv:1704.04861, 2017
   - [Stock20a] <a href="https://arxiv.org/pdf/1907.05686.pdf?utm_campaign=ExternalTechRecSeptember52019&utm_content=100275348&utm_medium=social&utm_source=twitter&hss_channel=tw-992153930095251456">And the bit goes down: revisiting the quantization of neural networks</a>, In Proceedings of ICLR 2020
