@@ -4,7 +4,7 @@ In this course, you will learn the foundations of deep learning, understand how 
 You will also learn about popular neural network structures including Convolutional neural networks, RNNs, LSTM, and transformers.
 
 ## Course Information
-- This course meets for in-class lecture Fri 9:00AM - 12:00AM (Seminar room No.2 at KISTI KIUM).
+- This course meets for in-class lecture Fri 9:10AM - 12:00AM (Seminar room No.2 at KISTI KIUM).
 - For all inquiries related to this course, please contact bart7449 AT gmail DOT com
 ### Instructor
 - Kyong-Ha Lee 
