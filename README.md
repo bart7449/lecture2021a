@@ -34,11 +34,11 @@ You will also learn about popular neural network structures including Convolutio
 |Lecture 7|04/16|Topics: Teaching Deep Learners to Generalize II(<a href="http://www.charuaggarwal.net/Chap4slides.pdf">slides</a>)|Paper review:<ul><li>[Ba2016a] |
 |Lecture 8|04/23|Topics: Radial Bases Function Networks(<a href="http://www.charuaggarwal.net/Chap5slides.pdf">slides</a>)|<ul><li>[Glorot10a],[He2015a]양동헌 |
 |Lecture 9|04/30|Topics: Convolutional Neural Networks I(<a href="http://www.charuaggarwal.net/Chap8slides.pdf">slides</a>)|Paper Reviews:<ul><li>[Alex12a]<li>[He16a]이건호 |
-|Lecture 10|05/07|Topics: Convolutional Neural Networks II(<a href="http://www.charuaggarwal.net/Chap8slides.pdf">slides</a>)|Paper Reviews:<ul><li>[He16b]<li>[Huang17a]<li>[Hu2018] |
+|Lecture 10|05/07|Topics: Convolutional Neural Networks II(<a href="http://www.charuaggarwal.net/Chap8slides.pdf">slides</a>)|Paper Reviews:<ul><li>[He16b]<li>[Huang17a]<li>[Hu2018]김형민 |
 |Lecture 11|05/14|Topics:Recurrent Neural Networks(<a href="http://www.charuaggarwal.net/Chap7slides.pdf">slides</a>)|No assignments | 
 |Lecture 12|05/21|Topics: Attention and Language Model I(slides)|Paper Reviews:<ul><li>[Badahnau16]<li>[Vaswani17a]|
 |Lecture 13|05/28|Topics: Attention and Language Model II|Paper Reviews:<ul><li>[DEvlin19a] |
-|Lecture 14|06/04|Topis: Lightweight Model<ul><li>Quantized Neural Networks|Paper reviews:<ul><li>[Rastegary16a]<li>[Stock20a]|
+|Lecture 14|06/04|Topis: Lightweight Model<ul><li>Quantized Neural Networks|Paper reviews:<ul><li>[Rastegary16a]<li>[Stock20a]김형민|
 |Lecture 15|06/11|Topics: Lightweight Model<ul><li>Compact Network Design|Paper reviews:<ul><li>[Howard17a]<li>[Sandler18a] |
 |Lecture 16|06/18|Final Exam|No Assignments | 
   
