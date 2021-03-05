@@ -29,11 +29,11 @@ You will also learn about popular neural network structures including Convolutio
 |Lecture 2|03/12|Topics: Machine Learning with Shallow Neural Networks I(<a href="http://www.charuaggarwal.net/Chap2slides.pdf">slides)</a> |No assignments|
 |Lecture 3|03/19|Topics: Machine Learning with Shallow Neural Networks II(<a href="http://www.charuaggawal.net/Chap2slides.pdf">slides)</a>|Paper review:<ul><li>[Mikolov13a]양동헌<li>[Le14a]유주연 |
 |Lecture 4|03/26|Topics: Training Deep Neural Networks I(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)|Paper review:<ul><li>[Bojanowski17a]<li>[Grover16a]|
-|Lecture 5|04/02|Topics: Training Deep Neural Networks II(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)|Paper review:<ul><li>[Ioffe15a] |
+|Lecture 5|04/02|Topics: Training Deep Neural Networks II(<a href="http://www.charuaggarwal.net/Chap3slides.pdf">slides</a>)|Paper review:<ul><li>[Ioffe15a]이건호 |
 |Lecture 6|04/09|Topics: Teaching Deep Learners to Generalize I(<a href="http://www.charuaggarwal.net/Chap4slides.pdf">slides</a>)|Paper Review:<ul><li>[Hinton15a] |
 |Lecture 7|04/16|Topics: Teaching Deep Learners to Generalize II(<a href="http://www.charuaggarwal.net/Chap4slides.pdf">slides</a>)|Paper review:<ul><li>[Ba2016a] |
 |Lecture 8|04/23|Topics: Radial Bases Function Networks(<a href="http://www.charuaggarwal.net/Chap5slides.pdf">slides</a>)|<ul><li>[Glorot10a],[He2015a]양동헌 |
-|Lecture 9|04/30|Topics: Convolutional Neural Networks I(<a href="http://www.charuaggarwal.net/Chap8slides.pdf">slides</a>)|Paper Reviews:<ul><li>[Alex12a]<li>[He16a] |
+|Lecture 9|04/30|Topics: Convolutional Neural Networks I(<a href="http://www.charuaggarwal.net/Chap8slides.pdf">slides</a>)|Paper Reviews:<ul><li>[Alex12a]<li>[He16a]이건호 |
 |Lecture 10|05/07|Topics: Convolutional Neural Networks II(<a href="http://www.charuaggarwal.net/Chap8slides.pdf">slides</a>)|Paper Reviews:<ul><li>[He16b]<li>[Huang17a]<li>[Hu2018] |
 |Lecture 11|05/14|Topics:Recurrent Neural Networks(<a href="http://www.charuaggarwal.net/Chap7slides.pdf">slides</a>)|No assignments | 
 |Lecture 12|05/21|Topics: Attention and Language Model I(slides)|Paper Reviews:<ul><li>[Badahnau16]<li>[Vaswani17a]|
