@@ -36,10 +36,10 @@ You will also learn about popular neural network structures including Convolutio
 |Lecture 9|04/30|Topics: Convolutional Neural Networks I(<a href="http://www.charuaggarwal.net/Chap8slides.pdf">slides</a>)|Paper Reviews:<ul><li>[Alex12a]송지현<li>[He16a]이건호 |
 |Lecture 10|05/07|Topics: Convolutional Neural Networks II(<a href="http://www.charuaggarwal.net/Chap8slides.pdf">slides</a>)|Paper Reviews:<ul><li>[He16b]<li>[Huang17a]이준영<li>[Hu2018]김형민 |
 |Lecture 11|05/14|Topics:Recurrent Neural Networks(<a href="http://www.charuaggarwal.net/Chap7slides.pdf">slides</a>)|No assignments | 
-|Lecture 12|05/21|Topics: Attention and Language Model I(slides)|Paper Reviews:<ul><li>[Badahnau16]유주연<li>[Vaswani17a]|
+|Lecture 12|05/21|Topics: Attention and Language Model I(slides)|Paper Reviews:<ul><li>[Badahnau16]유주연<li>[Vaswani17a]전호범|
 |Lecture 13|05/28|Topics: Attention and Language Model II|Paper Reviews:<ul><li>[Devlin19a]송지현 |
 |Lecture 14|06/04|Topis: Lightweight Model<ul><li>Quantized Neural Networks|Paper reviews:<ul><li>[Rastegary16a]<li>[Stock20a]김형민|
-|Lecture 15|06/11|Topics: Lightweight Model<ul><li>Compact Network Design|Paper reviews:<ul><li>[Howard17a]<li>[Sandler18a] |
+|Lecture 15|06/11|Topics: Lightweight Model<ul><li>Compact Network Design|Paper reviews:<ul><li>[Howard17a],[Sandler18a] |
 |Lecture 16|06/18|Final Exam|No Assignments | 
   
 ## Reading list for further discussion
