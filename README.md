@@ -47,7 +47,7 @@ You will also learn about popular neural network structures including Convolutio
 - [Ioffe15a] <a href="http://proceedings.mlr.press/v37/ioffe15.pdf"> Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift</a>, In Proceedings of ICLR 2015.
 - (optional)[Ba2016a] <a href="https://arxiv.org/pdf/1607.06450.pdf?utm_source=sciontist.com">Layer Normalization</a>, arXiv:1607.06450v1, 2016.
 - (optional)[Glorot10a]<a href="http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf">Understanding the difficulty of training deep feedforward neural networks</a>, In proceedings of AISTATS 2010.
-- (optional)[He2015a] <a href="https://openaccess.thecvf.com/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf">Deliving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification</a>, In Proceedings of ICCV 2015.
+- (optional)[He2015a] <a href="https://openaccess.thecvf.com/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf">Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification</a>, In Proceedings of ICCV 2015.
 - [Hinton15a] <a href="https://arxiv.org/pdf/1503.02531.pdf">Distilling the Knowledge in a Neural Network</a>, arXiv:1503.02531v1, 2015.
 
 ### Convolutional Neural Network
