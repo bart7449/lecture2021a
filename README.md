@@ -40,7 +40,7 @@ You will also learn about popular neural network structures including Convolutio
 |Lecture 13|05/28|Topics: Attention and Language Model II|Paper Reviews:<ul><li>[Devlin19a]송지현 |
 |Lecture 14|06/04|Topis: Lightweight Model<ul><li>Quantized Neural Networks|Paper reviews:<ul><li>[Rastegary16a]공병윤<li>[Stock20a]김형민|
 |Lecture 15|06/11|Topics: Lightweight Model<ul><li>Compact Network Design|Paper reviews:<ul><li>[Howard17a],[Sandler18a]전호범 |
-|Lecture 16|06/18|Final Exam|No Assignments | 
+|Lecture 16|06/18|Final Presentations|No Assignments | 
   
 ## Reading list for further discussion
 ### General Techniques
