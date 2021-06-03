@@ -39,7 +39,7 @@ You will also learn about popular neural network structures including Convolutio
 |Lecture 12|05/21|Topics: Recurrent Neural Networks (<a href="http://www.charuaggarwal.net/Chap7slides.pdf">slides</a>)|Paper Reviews:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/NEURAL%20MACHINE%20TRANSLATION_yujuyeon.pdf">[Badahnau16]</a>유주연<li>[[Vaswani17a]](https://github.com/bart7449/lecture2021a/blob/slides/Transformer.pdf)전호범|
   |Lecture 13|05/28|Topics: Attention and Language Model(<a href="https://github.com/bart7449/lecture2021a/blob/slides/LMadvances.pdf">slides</a>) |Paper Reviews:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/BERT_210528.pdf">[Devlin19a]</a>송지현 |
 |Lecture 14|06/04|Topis: <a href="https://github.com/bart7449/lecture2021a/blob/slides/LightweightedModel.pdf">Lightweight Model</a><ul><li>Quantized Neural Networks|Paper reviews:<ul><li><a href="https://github.com/bart7449/lecture2021a/blob/slides/XNOR-Net_byungyun.pdf">[Rastegary16a]</a>공병윤<li><a href="https://github.com/bart7449/lecture2021a/blob/slides/%5B21.06.03%5DAnd%20the%20Bit%20goes%20Down.pdf">[Stock20a]</a>김형민|
-|Lecture 15|06/11|Topics: <a href="https://github.com/bart7449/lecture2021a/blob/slides/LightweightedModel.pdf">Lightweight Model</a><ul><li>Compact Network Design|Paper reviews:<ul><li><a href="[Howard17a],[Sandler18a]전호범 |
+|Lecture 15|06/11|Topics: <a href="https://github.com/bart7449/lecture2021a/blob/slides/LightweightedModel.pdf">Lightweight Model</a><ul><li>Compact Network Design|Paper reviews:<ul><li>[Howard17a],[Sandler18a]전호범 |
 |Lecture 16|06/18|Final Presentations|No Assignments | 
   
 ## Reading list for further discussion
